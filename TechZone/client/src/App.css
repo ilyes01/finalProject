@@ -1,0 +1,51 @@
+.App {
+  text-align: center;
+  background-color:white;;
+}
+
+
+
+
+.v7{  position: fixed;
+  top: 0;
+  margin-bottom: 300px;
+  z-index: 10;
+  max-width: 100%;
+  width: 100%;
+}
+
+
+@media screen and (max-width: 740px) {
+  .v7 {
+    max-width: auto ;
+    width: 370px;}
+  }
+
+.v8{margin-top: 110px;}
+
+::-webkit-scrollbar{
+  width: 10px;
+}
+
+
+/* khra eli 3la jnab*/
+
+::-webkit-scrollbar-thumb{background-image: linear-gradient(rgb(190, 165, 245),rgb(30, 42, 102)) ;
+  border-radius: 10px;
+  
+  }
+  
+  ::-webkit-scrollbar-thumb:hover{background-image: linear-gradient(rgb(190, 165, 245),rgb(30, 42, 102));
+    border-radius: 6px;
+    }
+
+
+.scrollbtn{margin-left: 1275px;
+  margin-top: 450px;
+position: fixed;
+z-index: 10;}
+
+
+.scrollbtn:hover{animation:pulse; 
+  animation-duration: 2s;}
+

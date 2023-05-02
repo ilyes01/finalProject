@@ -1,0 +1,57 @@
+.nostech1 {color:#4F69C6 ;
+  animation: fadeIn; 
+  animation-duration: 3s;
+  margin-top: 30px; 
+
+
+}
+  
+
+  
+
+
+  @media screen and (max-width: 40px) {
+
+  }
+
+
+
+.ContainerHome{
+  animation: fadeInLeft; 
+animation-duration: 2s;
+}
+
+
+
+
+@media screen and (max-width: 40px) {
+  .video {
+    width: 2%;
+    height: 2%;
+  z-index: -1;
+}
+}
+
+.machineox{
+  width: 100%;
+}
+
+h1 {
+    display: flex;
+    flex-direction: row;
+  }
+  h1:before, h1:after{
+    content: "";
+    flex: 1 1;
+    border-bottom: 1px solid;
+    border-color:#4F69C6 ;
+    margin: auto;
+  
+  }
+  h1:before {
+    margin-right: 10px
+  }
+  h1:after {
+    margin-left: 10px
+  }
+

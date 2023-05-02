@@ -1,0 +1,41 @@
+.orderCard {
+    width : 450px;
+    border : solid;
+    border-color: rgb(241, 241, 241);
+    padding-bottom: 4%;
+    padding-top: 2%;
+    background-image: url("triangle.jpg");
+background-size : auto;
+background-repeat: no-repeat;
+}
+
+.orederinput{
+    width: 80%;
+}
+
+.btn66{
+    width: 200px;
+    height: 40px;
+    margin-top: 2%;
+}
+
+
+.commande-container{
+    Display:flex;
+    justify-content: center;
+    Align-items: center;
+    Flex-direction: column; 
+}
+
+.input-order{
+    margin-top: 3%;
+    width: 60%;
+    
+}
+
+.inputs{
+    Display:flex;
+    justify-content: center;
+    Align-items: center;
+    Flex-direction: column;
+}

@@ -1,0 +1,51 @@
+.About {color:#4F69C6 ;
+    margin-top: 80px; 
+    display: flex;
+    flex-direction: row;
+    animation: fadeIn; /* referring directly to the animation's @keyframe declaration */
+    animation-duration: 2s;
+}
+
+.About:before, .About:after{
+    content: "";
+    flex: 1 1;
+    border-bottom: 1px solid;
+    margin: auto;
+  }
+  .About:before {
+    margin-right: 10px
+  }
+  .About:after {
+    margin-left: 10px
+  }
+
+
+.descriptionNormed{
+  width: 900px;
+  margin-top: 60px;
+  max-width:80%;/*to leave spaces around your text on responsive*/
+  margin:auto;/*changed*/
+}
+
+.descriptionNormed2{
+  
+  margin-top: 60px;
+margin-bottom: 60px;}
+
+.textdescription { font-size: x-large;}
+
+@media screen and (max-width: 740px) {
+  .textdescription {
+    font-size: medium;
+  }
+}
+
+
+
+.destxt{font-weight: bold;}
+
+.descrNostech {
+  font-weight: bold;
+  color:#4F69C6 ;
+}
+

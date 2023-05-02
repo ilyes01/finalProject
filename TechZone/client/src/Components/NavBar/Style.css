@@ -1,0 +1,100 @@
+
+.inscription{margin-left: 266px;
+display: flex;
+flex-direction: row;
+}
+
+@media screen and (max-width: 740px) {
+    .inscription{
+        display: flex;
+        flex-direction: column;
+    }
+  }
+
+.logout{
+    margin-left: 260px;
+    display: flex;
+flex-direction: row;
+}
+
+@media screen and (max-width: 740px) {
+    .logout{
+        display: flex;
+        flex-direction: column;
+    }
+  }
+
+.logoutAdmin{
+    margin-left:10px;
+    display: flex;
+flex-direction: row;
+}
+
+.userico{
+    margin-right : 6px;
+} 
+
+.search{margin-left: 80px;}
+
+.v1{box-shadow:0px 2px 6px #4F69C6;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    letter-spacing :1.7px;
+    background-color:   #1a5e8f;
+
+}
+
+
+.v2{background: #DEFCF9;
+    background: radial-gradient(circle, #4F69C6 0%, #4F69C6 100%);}
+
+    .v2:hover{background: #4F69C6;
+        background: radial-gradient(circle, #4F69C6 0%, #4F69C6 100%);}
+
+.v3{color: rgb(255, 255, 255);
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    letter-spacing :1.7px;}
+
+
+.v4:hover{color:#4F69C6;
+ }
+
+
+.v11{background: #4F69C6;
+    background: radial-gradient(circle, #4F69C6 0%, #4F69C6 100%);
+width: 175px;
+margin-top: 4px;}
+
+.v11:hover{
+    background: #DEFCF9;
+    background: radial-gradient(circle, #4F69C6 0%, #4F69C6 100%);
+}
+
+.nostech:hover{   animation:pulse; 
+    animation-duration: 2s;
+
+}
+
+
+.Infos{
+    height: 15px;
+
+    background-color: white;
+}
+
+
+.serviceclient{font-size: 10px;
+background-color: white;
+padding-bottom: 10px;}
+
+
+.top-nav{
+    display: flex;
+    flex-direction: row;
+    display: flex;
+    justify-content: space-around;
+}
+
+.clock {width: 10px;
+margin-right: 3px;}

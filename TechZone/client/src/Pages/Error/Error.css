@@ -1,0 +1,18 @@
+.err1{
+    animation: backInDown; 
+    animation-duration: 2s;
+
+}
+
+.err2{
+    animation: fadeInLeft; 
+    animation-duration: 3s;
+}
+
+.errorIcon{
+    animation: fadeInLeft;  
+    animation-duration: 4s;
+    width: 200px;
+
+}
+

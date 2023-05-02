@@ -1,0 +1,45 @@
+.Login {color:rgb(145,195,88) ;
+    margin-top: 80px; 
+    animation: fadeIn; /* referring directly to the animation's @keyframe declaration */
+    animation-duration: 2s;}
+
+.cadre { 
+   
+    height: 390px; width: 400px;
+border-radius: 6px;
+justify-content: center;
+margin: auto;
+padding-left: 30px;
+padding-right: 30px;
+padding-top: 25px;
+padding-bottom: 80px;
+background-image: url("triangle.jpg");
+background-size : auto;
+background-repeat: no-repeat;
+}  
+
+
+.cadre:hover {
+    box-shadow: 0 4px 8px 0 gray;
+  
+    border-radius: 10px;}
+
+.cadre2{margin-top: 60px;
+    font-family: 'Roboto', sans-serif;}
+
+.bouton{background: rgb(145,195,88);
+    background: radial-gradient(circle, rgba(145,195,88,1) 0%, rgba(146,193,86,1) 100%);}
+
+.boutontext{color: white;}    
+
+
+.eye{width: 25px;
+cursor: pointer;
+position: absolute;
+margin-left: 125px;
+margin-top: 7px;
+}
+.forms{font-weight: bold}
+
+
+

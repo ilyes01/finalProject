@@ -1,0 +1,7 @@
+export const LOAD_ORDER = "LOAD_ORDER";
+export const ADD_ORDER = "ADD_ORDER";
+export const FAIL_ORDER = "FAIL_ORDER";
+export const GET_ORDER = "GET_ORDER";
+export const CLEAR_SUCCESSORDER = "CLEAR_SUCCESSORDER"
+export const CLEAR_ERRORSORDER = "CLEAR_ERRORSORDER";
+export const DELETE_ORDER = "DELETE_ORDER"

@@ -1,0 +1,28 @@
+.Profile {color:#4F69C6 ;
+    margin-top: 80px; 
+    animation: fadeIn; 
+    animation-duration: 2s;
+}
+
+.profileCard{ margin-top: 80px;
+  
+    animation: zoomInDown; 
+    animation-duration: 2s; 
+}
+
+
+
+.edit{width: 30px;
+}
+
+.editico{width: 35px;
+    cursor: pointer;}
+    
+    .editico:hover{    animation:swing; 
+        animation-duration: 2s;}
+    
+.eye1{width: 25px;
+cursor: pointer;
+position: absolute;
+margin-left: 252px;
+margin-top: 30px;}    
