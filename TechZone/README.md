@@ -11,13 +11,14 @@ Admin dashboard with the ability to add, edit, and delete products
 Messaging system for users to send messages to admins
 Google Maps integration to display store location
 User profile page where users can edit their information
-Technologies Used:
-MongoDB: a NoSQL database used to store product and user information
-Express.js: a web application framework used for building the server-side of the application
-React: a JavaScript library used for building the client-side of the application
-Node.js: a JavaScript runtime used for building the server-side of the application
-Redux: a predictable state container used for managing application state
-Bootstrap: a CSS framework used for responsive design
+
+## Technologies Used:
+MongoDB: a NoSQL database used to store product and user information.
+Express.js: a web application framework used for building the server-side of the application.
+React: a JavaScript library used for building the client-side of the application.
+Node.js: a JavaScript runtime used for building the server-side of the application.
+Redux: a predictable state container used for managing application state.
+Bootstrap: a CSS framework used for responsive design.
 
 ## Usage:
 Register for an account or login with an existing account
