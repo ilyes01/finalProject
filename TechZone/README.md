@@ -1,7 +1,7 @@
 # Project Name: TechZone
 
 ## Overview:
-TechZone is a full-stack e-commerce web application built with the MERN stack (MongoDB, Express.js, React, and Node.js) and Redux. The goal of this application is to provide a user-friendly and easy-to-use online shopping experience for customers interested in purchasing tech-related products. With Tech-Shop, customers can browse a variety of products, add them to their cart, and checkout securely using Stripe payment processing.
+TechZone is a full-stack e-commerce web application built with the MERN stack (MongoDB, Express.js, React, and Node.js) and Redux. The goal of this application is to provide a user-friendly and easy-to-use online shopping experience for customers interested in purchasing tech-related products.
 
 ## The application includes the following features:
 Shopping cart functionality with the ability to add, edit, and delete items
@@ -10,7 +10,6 @@ Product filtering and searching
 Admin dashboard with the ability to add, edit, and delete products
 Messaging system for users to send messages to admins
 Google Maps integration to display store location
-User profile page where users can edit their information
 
 ## Technologies Used:
 MongoDB: a NoSQL database used to store product and user information.
